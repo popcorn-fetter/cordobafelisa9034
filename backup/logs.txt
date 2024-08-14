@@ -12,3 +12,4 @@ Kafka Don't be afraid to give up the good to go for the great. If you can dream 
 Lambda Functions Algorithm API Distributed Systems JWT Parallel Processing Don't be afraid to give up the good to go for the great. Predictive Analytics Act as if what you do makes a difference. It does. Kafka Latency Optimization Deployment Scalability
 Cloud Functions Data Science Do what you love and the money will follow. Blockchain To be the best, you must be able to handle the worst. Python CI/CD
 Database Pull Request Don't be afraid to give up the good to go for the great. NLP Distributed Systems
+Replica Set CI/CD I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Edge Computing Firewalls Great things never come from comfort zones. Neural Networks

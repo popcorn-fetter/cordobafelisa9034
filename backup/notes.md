@@ -7,3 +7,4 @@ API Version Control Parallel Processing Code Review Lambda Functions React Optim
 Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. WebSockets Database Indexing Machine Learning Version Control Algorithm Microservices Distributed Systems Simplicity is the ultimate sophistication. Content Delivery Network
 Load Testing Cache Invalidation UX Optimization Do what you love and the money will follow. JWT Kafka Serverless Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Database Indexing Logging
 A/B Testing Content Delivery Network I find that the harder I work, the more luck I seem to have. Artificial Intelligence Opportunities don't happen. You create them. Python Monitoring Testing Agile
+Load Testing Server Response React WebSockets Zero Downtime Deployment Do what you love and the money will follow. Algorithm

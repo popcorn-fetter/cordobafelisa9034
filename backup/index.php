@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Version Control Succes
 Security API Automation The only way to do great work is to love what you do. Event-driven Architecture Microservices
 Load Balancing Message Queue Code Review Event Sourcing Content Delivery Network Latency Optimization
 JavaScript Performance Success doesn’t just find you. You have to go out and get it. Blockchain If you can dream it, you can do it.
+Monitoring Docker Kafka Kubernetes Simplicity is the ultimate sophistication. Backend Deployment Sharding UX Optimization A/B Testing If you can dream it, you can do it. Cloud Lambda Functions Do what you love and the money will follow.

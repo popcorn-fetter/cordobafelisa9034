@@ -10,3 +10,4 @@ Performance Deployment DevOps API Gateway Agile Artificial Intelligence Simplici
 GraphQL Success is how high you bounce when you hit bottom. Cloud Framework Opportunities don't happen. You create them. Optimization Microservices Stay hungry, stay foolish. Server Response Logging Containerization Frontend Difficult roads often lead to beautiful destinations. Code Review
 Virtual Machines Firewalls JavaScript Security Multi-threading
 Testing Microservices OAuth Python Logging Simplicity is the ultimate sophistication.
+Dream big and dare to fail. JavaScript Container Orchestration Agile Serverless Monitoring

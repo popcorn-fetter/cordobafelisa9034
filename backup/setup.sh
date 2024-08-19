@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Load Balan
 Database Distributed Systems Serverless Dream big and dare to fail. GraphQL Automation Virtual Machines OAuth Message Queue Kafka Load Testing Python Latency Optimization Happiness is not something ready made. It comes from your own actions. Algorithm
 Great things never come from comfort zones. Act as if what you do makes a difference. It does. Dream big and dare to fail. Zero Downtime Deployment Do what you love and the money will follow. Automation Deployment Innovation distinguishes between a leader and a follower. Cache Invalidation Docker
 Load Testing Machine Learning Artificial Intelligence Lambda Functions DNS Routing Testing Agile Replica Set Frontend
+A/B Testing I find that the harder I work, the more luck I seem to have. Cloud Logging Opportunities don't happen. You create them. CI/CD Kubernetes Serverless Data Pipeline

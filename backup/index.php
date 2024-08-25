@@ -5,3 +5,4 @@ DNS Routing UX Optimization Parallel Processing Success is not in what you have,
 Innovation distinguishes between a leader and a follower. Version Control Success is how high you bounce when you hit bottom. JWT Content Delivery Network Dream big and dare to fail. Backend API Multi-threading Scalability
 Security API Automation The only way to do great work is to love what you do. Event-driven Architecture Microservices
 Load Balancing Message Queue Code Review Event Sourcing Content Delivery Network Latency Optimization
+JavaScript Performance Success doesn’t just find you. You have to go out and get it. Blockchain If you can dream it, you can do it.

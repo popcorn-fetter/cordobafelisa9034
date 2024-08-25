@@ -5,3 +5,4 @@ Microservices Blockchain Firewalls Algorithm Database Indexing Server Response S
 Frontend Automation Success doesn’t just find you. You have to go out and get it. Agile Replica Set API
 API Version Control Parallel Processing Code Review Lambda Functions React Optimization Server Response Docker Message Queue WebSockets Firewalls Act as if what you do makes a difference. It does.
 Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. WebSockets Database Indexing Machine Learning Version Control Algorithm Microservices Distributed Systems Simplicity is the ultimate sophistication. Content Delivery Network
+Load Testing Cache Invalidation UX Optimization Do what you love and the money will follow. JWT Kafka Serverless Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Database Indexing Logging

@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Load Testing Simplicity is the ulti
 Success usually comes to those who are too busy to be looking for it. Event Sourcing Message Queue Database Indexing Success is how high you bounce when you hit bottom. Parallel Processing Frontend If you can dream it, you can do it. Performance Docker Algorithm API
 Python If you can dream it, you can do it. JWT JavaScript Virtual Machines UX Optimization Success is how high you bounce when you hit bottom. React Database Containerization Message Queue Edge Computing Security Data Science
 Artificial Intelligence Lambda Functions WebSockets Container Orchestration Firewalls I find that the harder I work, the more luck I seem to have. Testing React Big Data Database Indexing Event-driven Architecture
+Scalability Do what you love and the money will follow. Kubernetes Act as if what you do makes a difference. It does. Blockchain Cache Invalidation API

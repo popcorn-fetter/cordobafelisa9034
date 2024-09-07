@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Optimization Data P
 Microservices Blockchain Firewalls Algorithm Database Indexing Server Response Simplicity is the ultimate sophistication. API Success is how high you bounce when you hit bottom. DevOps Testing Logging
 Frontend Automation Success doesn’t just find you. You have to go out and get it. Agile Replica Set API
 API Version Control Parallel Processing Code Review Lambda Functions React Optimization Server Response Docker Message Queue WebSockets Firewalls Act as if what you do makes a difference. It does.
+Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. WebSockets Database Indexing Machine Learning Version Control Algorithm Microservices Distributed Systems Simplicity is the ultimate sophistication. Content Delivery Network

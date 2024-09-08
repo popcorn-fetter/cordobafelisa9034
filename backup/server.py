@@ -11,3 +11,4 @@ DevOps Event-driven Architecture JWT GraphQL Event Sourcing Cloud Functions
 Database Edge Computing Frontend Kubernetes WebSockets
 The only way to do great work is to love what you do. JWT Event Sourcing API If you can dream it, you can do it. Cloud Functions UX Optimization Data Pipeline Monitoring Performance Containerization
 Container Orchestration Neural Networks DevOps Content Delivery Network OAuth Cloud Functions NLP Distributed Systems Server Response Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail. Logging Deployment
+Success is not in what you have, but who you are. Kubernetes Backend OAuth Frontend Data Science Monitoring Event-driven Architecture Performance RabbitMQ Load Testing Artificial Intelligence Quantum Computing

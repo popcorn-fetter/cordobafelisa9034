@@ -10,3 +10,4 @@ Do what you love and the money will follow. Scalability Database If you can drea
 DevOps Event-driven Architecture JWT GraphQL Event Sourcing Cloud Functions
 Database Edge Computing Frontend Kubernetes WebSockets
 The only way to do great work is to love what you do. JWT Event Sourcing API If you can dream it, you can do it. Cloud Functions UX Optimization Data Pipeline Monitoring Performance Containerization
+Container Orchestration Neural Networks DevOps Content Delivery Network OAuth Cloud Functions NLP Distributed Systems Server Response Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail. Logging Deployment

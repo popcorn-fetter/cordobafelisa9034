@@ -6,3 +6,4 @@ Database Indexing React Deployment Scalability Version Control API Work hard in 
 Version Control Artificial Intelligence Pull Request Event Sourcing Multi-threading
 Serverless Load Balancing Deployment JWT Database Container Orchestration Sharding
 GraphQL Quantum Computing A/B Testing API Happiness is not something ready made. It comes from your own actions. Blockchain IoT NLP Algorithm Work hard in silence, let your success be your noise. UX Optimization
+CI/CD Load Balancing Great things never come from comfort zones. Optimization Replica Set Kubernetes Frontend Dream big and dare to fail. RabbitMQ Database Indexing Multi-threading Distributed Systems

@@ -7,3 +7,4 @@ Logging IoT Predictive Analytics Security CI/CD Success doesn’t just find you. Y
 NLP DevOps Multi-threading Artificial Intelligence If you can dream it, you can do it. Message Queue Firewalls
 Lambda Functions Event-driven Architecture Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Predictive Analytics Code Review JavaScript Automation Event Sourcing CI/CD Firewalls
 Performance Deployment DevOps API Gateway Agile Artificial Intelligence Simplicity is the ultimate sophistication. OAuth Distributed Systems Docker Content Delivery Network
+GraphQL Success is how high you bounce when you hit bottom. Cloud Framework Opportunities don't happen. You create them. Optimization Microservices Stay hungry, stay foolish. Server Response Logging Containerization Frontend Difficult roads often lead to beautiful destinations. Code Review

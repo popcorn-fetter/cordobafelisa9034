@@ -6,3 +6,4 @@ Serverless Quantum Computing DNS Routing Optimization Database Indexing Cloud Da
 Testing CI/CD Big Data Performance Distributed Systems Load Balancing Algorithm Content Delivery Network
 CI/CD Docker Database Zero Downtime Deployment Framework Success usually comes to those who are too busy to be looking for it. Quantum Computing Parallel Processing UX Optimization Do what you love and the money will follow.
 Distributed Systems Kafka Predictive Analytics Difficult roads often lead to beautiful destinations. Algorithm IoT DevOps Data Pipeline Firewalls Code Review Edge Computing The only way to do great work is to love what you do. JWT
+Algorithm Database Parallel Processing OAuth Load Balancing The only way to do great work is to love what you do. API Kubernetes JavaScript Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Do what you love and the money will follow. Event-driven Architecture

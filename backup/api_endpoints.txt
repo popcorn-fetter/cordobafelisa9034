@@ -12,3 +12,4 @@ If you can dream it, you can do it. DevOps Event-driven Architecture Success is 
 Firewalls Zero Downtime Deployment Kafka Event-driven Architecture Python Framework A/B Testing API Gateway Microservices Machine Learning JavaScript
 I find that the harder I work, the more luck I seem to have. API Gateway Backend Latency Optimization Multi-threading Neural Networks JWT Cache Invalidation Event-driven Architecture Deployment Docker Monitoring
 JavaScript Event-driven Architecture Testing Multi-threading Success is not in what you have, but who you are. Sharding Kubernetes NLP Version Control Distributed Systems Code Review
+Work hard in silence, let your success be your noise. DNS Routing Kubernetes Artificial Intelligence Firewalls Microservices API OAuth Scalability Act as if what you do makes a difference. It does. GraphQL Sharding Parallel Processing Serverless Don't be afraid to give up the good to go for the great.

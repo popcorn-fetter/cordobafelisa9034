@@ -11,3 +11,4 @@ Lambda Functions Event-driven Architecture To be the best, you must be able to h
 If you can dream it, you can do it. DevOps Event-driven Architecture Success is how high you bounce when you hit bottom. OAuth Deployment Distributed Systems Framework Algorithm Optimization Microservices Code Review Parallel Processing Python API Gateway
 Firewalls Zero Downtime Deployment Kafka Event-driven Architecture Python Framework A/B Testing API Gateway Microservices Machine Learning JavaScript
 I find that the harder I work, the more luck I seem to have. API Gateway Backend Latency Optimization Multi-threading Neural Networks JWT Cache Invalidation Event-driven Architecture Deployment Docker Monitoring
+JavaScript Event-driven Architecture Testing Multi-threading Success is not in what you have, but who you are. Sharding Kubernetes NLP Version Control Distributed Systems Code Review

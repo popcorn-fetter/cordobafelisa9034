@@ -6,3 +6,4 @@ Pull Request Predictive Analytics Automation Version Control Microservices If yo
 Blockchain Replica Set Load Testing Innovation distinguishes between a leader and a follower. Message Queue
 Opportunities don't happen. You create them. Load Testing Simplicity is the ultimate sophistication. Cloud Functions Multi-threading OAuth Blockchain Artificial Intelligence Frontend
 Success usually comes to those who are too busy to be looking for it. Event Sourcing Message Queue Database Indexing Success is how high you bounce when you hit bottom. Parallel Processing Frontend If you can dream it, you can do it. Performance Docker Algorithm API
+Python If you can dream it, you can do it. JWT JavaScript Virtual Machines UX Optimization Success is how high you bounce when you hit bottom. React Database Containerization Message Queue Edge Computing Security Data Science

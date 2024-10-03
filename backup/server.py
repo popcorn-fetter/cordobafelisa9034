@@ -7,3 +7,4 @@ Replica Set Predictive Analytics CI/CD Framework Difficult roads often lead to b
 Serverless Code Review Database Indexing Sharding Zero Downtime Deployment Dream big and dare to fail. API Security API Gateway Optimization
 Pull Request Opportunities don't happen. You create them. Great things never come from comfort zones. Logging Cache Invalidation GraphQL Sharding Distributed Systems Parallel Processing
 Do what you love and the money will follow. Scalability Database If you can dream it, you can do it. Docker Framework Multi-threading OAuth Sharding Predictive Analytics Work hard in silence, let your success be your noise. Lambda Functions Message Queue
+DevOps Event-driven Architecture JWT GraphQL Event Sourcing Cloud Functions

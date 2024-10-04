@@ -5,3 +5,4 @@ Lambda Functions Stay hungry, stay foolish. To be the best, you must be able to 
 Database Indexing React Deployment Scalability Version Control API Work hard in silence, let your success be your noise.
 Version Control Artificial Intelligence Pull Request Event Sourcing Multi-threading
 Serverless Load Balancing Deployment JWT Database Container Orchestration Sharding
+GraphQL Quantum Computing A/B Testing API Happiness is not something ready made. It comes from your own actions. Blockchain IoT NLP Algorithm Work hard in silence, let your success be your noise. UX Optimization

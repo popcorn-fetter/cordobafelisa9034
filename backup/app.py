@@ -6,3 +6,4 @@ IoT Message Queue Dream big and dare to fail. Innovation distinguishes between a
 Data Pipeline Python Simplicity is the ultimate sophistication. Cloud Functions Blockchain Pull Request Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Predictive Analytics
 GraphQL Lambda Functions Serverless OAuth Innovation distinguishes between a leader and a follower. API Gateway RabbitMQ Monitoring Security WebSockets Parallel Processing If you can dream it, you can do it. Container Orchestration Docker Data Science
 Monitoring Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Optimization React RabbitMQ DevOps
+RabbitMQ Server Response React Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Database DNS Routing Optimization Container Orchestration

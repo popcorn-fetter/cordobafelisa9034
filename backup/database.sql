@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Machine Learning Great things 
 Lambda Functions Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Database Agile Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
 Database Indexing React Deployment Scalability Version Control API Work hard in silence, let your success be your noise.
 Version Control Artificial Intelligence Pull Request Event Sourcing Multi-threading
+Serverless Load Balancing Deployment JWT Database Container Orchestration Sharding

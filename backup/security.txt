@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. I find tha
 Load Balancing Serverless Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Cloud Performance Containerization OAuth Content Delivery Network DevOps Success usually comes to those who are too busy to be looking for it. Quantum Computing
 Microservices Opportunities don't happen. You create them. Logging Parallel Processing React Big Data JavaScript
 Database Cloud Functions Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Backend Act as if what you do makes a difference. It does. Artificial Intelligence Quantum Computing React Message Queue Pull Request
+Algorithm API Gateway Multi-threading React Latency Optimization Difficult roads often lead to beautiful destinations. Automation Frontend Data Science

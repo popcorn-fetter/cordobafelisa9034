@@ -3,3 +3,4 @@ Event Sourcing Lambda Functions Machine Learning Database Happiness is not somet
 I find that the harder I work, the more luck I seem to have. Security Cloud Load Balancing Content Delivery Network Load Testing Distributed Systems To be the best, you must be able to handle the worst. NLP Deployment Virtual Machines Parallel Processing
 Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. GraphQL CI/CD Algorithm Pull Request Event-driven Architecture
 Do what you love and the money will follow. React Data Pipeline Optimization Database Cloud IoT Automation Load Balancing Happiness is not something ready made. It comes from your own actions. Big Data Monitoring
+Performance Cloud Agile DNS Routing Kafka Content Delivery Network Simplicity is the ultimate sophistication. API Gateway Pull Request React Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Container Orchestration Firewalls

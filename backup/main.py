@@ -7,3 +7,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 RabbitMQ Docker Machine Learning JavaScript Security NLP Predictive Analytics DevOps
 Serverless Simplicity is the ultimate sophistication. Distributed Systems API Success is how high you bounce when you hit bottom. Kafka
 React WebSockets Multi-threading Testing Server Response DNS Routing Success usually comes to those who are too busy to be looking for it. Automation JavaScript Lambda Functions Event Sourcing Distributed Systems
+Replica Set Big Data NLP Data Science GraphQL Latency Optimization Security Success is not in what you have, but who you are. Message Queue Docker Success usually comes to those who are too busy to be looking for it. Deployment DevOps Database Indexing Pull Request

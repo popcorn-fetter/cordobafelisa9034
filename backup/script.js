@@ -4,3 +4,4 @@ Container Orchestration A/B Testing Monitoring If you can dream it, you can do i
 Simplicity is the ultimate sophistication. Python Server Response UX Optimization NLP Opportunities don't happen. You create them. Content Delivery Network Event-driven Architecture Database Indexing Success usually comes to those who are too busy to be looking for it. WebSockets Pull Request Success doesn’t just find you. You have to go out and get it. React JavaScript
 Pull Request Predictive Analytics Automation Version Control Microservices If you can dream it, you can do it. Optimization Containerization Great things never come from comfort zones.
 Blockchain Replica Set Load Testing Innovation distinguishes between a leader and a follower. Message Queue
+Opportunities don't happen. You create them. Load Testing Simplicity is the ultimate sophistication. Cloud Functions Multi-threading OAuth Blockchain Artificial Intelligence Frontend

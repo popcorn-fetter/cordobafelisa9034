@@ -5,3 +5,4 @@ Virtual Machines IoT API Gateway Content Delivery Network GraphQL Predictive Ana
 Security Containerization Cloud Happiness is not something ready made. It comes from your own actions. React
 Cloud Do what you love and the money will follow. Monitoring Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Security Performance RabbitMQ
 Logging Message Queue Quantum Computing Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Blockchain Simplicity is the ultimate sophistication. Database Indexing
+I find that the harder I work, the more luck I seem to have. JWT Container Orchestration Big Data Multi-threading API Virtual Machines Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Data Science Logging Sharding

@@ -7,3 +7,4 @@ Pull Request Server Response Deployment Predictive Analytics Data Pipeline
 Backend GraphQL If you can dream it, you can do it. Stay hungry, stay foolish. Data Science Do what you love and the money will follow.
 JWT Deployment Code Review Difficult roads often lead to beautiful destinations. Blockchain Python Load Balancing Act as if what you do makes a difference. It does. Edge Computing Stay hungry, stay foolish. Microservices
 Docker React Difficult roads often lead to beautiful destinations. Artificial Intelligence Machine Learning Success is how high you bounce when you hit bottom. Blockchain Load Testing Multi-threading Quantum Computing Code Review Sharding Message Queue Lambda Functions DevOps
+Lambda Functions Event-driven Architecture To be the best, you must be able to handle the worst. Content Delivery Network A/B Testing

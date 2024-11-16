@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. Quantum Computing OAuth Co
 Kubernetes Performance Replica Set Cache Invalidation Difficult roads often lead to beautiful destinations. Sharding
 To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Microservices WebSockets
 Code Review Load Testing Frontend React Kafka Data Science Success is not in what you have, but who you are. Server Response Optimization Success is how high you bounce when you hit bottom. Performance DevOps
+Logging IoT Predictive Analytics Security CI/CD Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Data Pipeline RabbitMQ OAuth Distributed Systems Database Indexing

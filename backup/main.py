@@ -5,3 +5,4 @@ Code Review GraphQL Kafka Server Response I find that the harder I work, the mor
 Content Delivery Network Cache Invalidation Machine Learning To be the best, you must be able to handle the worst. Event-driven Architecture IoT Event Sourcing
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Firewalls Monitoring To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Predictive Analytics Virtual Machines API
 RabbitMQ Docker Machine Learning JavaScript Security NLP Predictive Analytics DevOps
+Serverless Simplicity is the ultimate sophistication. Distributed Systems API Success is how high you bounce when you hit bottom. Kafka

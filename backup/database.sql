@@ -1,2 +1,3 @@
 Success is not in what you have, but who you are. Event Sourcing Parallel Processing API Gateway Virtual Machines Neural Networks Lambda Functions Dream big and dare to fail. Innovation distinguishes between a leader and a follower. JWT
 Kubernetes Message Queue Predictive Analytics Neural Networks UX Optimization Database Indexing The only way to do great work is to love what you do. Opportunities don't happen. You create them. Deployment
+Success is not in what you have, but who you are. Machine Learning Great things never come from comfort zones. Stay hungry, stay foolish. Scalability Monitoring Serverless JWT

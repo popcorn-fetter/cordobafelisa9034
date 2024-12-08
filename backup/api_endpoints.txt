@@ -5,3 +5,4 @@ Cloud Functions Blockchain Serverless Testing Content Delivery Network API
 Edge Computing Version Control DevOps Big Data Work hard in silence, let your success be your noise. Sharding Parallel Processing Success doesn’t just find you. You have to go out and get it. Scalability Quantum Computing Multi-threading Opportunities don't happen. You create them. Agile Logging Container Orchestration
 Pull Request Server Response Deployment Predictive Analytics Data Pipeline
 Backend GraphQL If you can dream it, you can do it. Stay hungry, stay foolish. Data Science Do what you love and the money will follow.
+JWT Deployment Code Review Difficult roads often lead to beautiful destinations. Blockchain Python Load Balancing Act as if what you do makes a difference. It does. Edge Computing Stay hungry, stay foolish. Microservices

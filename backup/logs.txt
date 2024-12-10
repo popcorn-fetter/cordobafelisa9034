@@ -6,3 +6,4 @@ Data Pipeline Server Response WebSockets RabbitMQ Difficult roads often lead to 
 Frontend Difficult roads often lead to beautiful destinations. API Event Sourcing Great things never come from comfort zones.
 Event Sourcing GraphQL Server Response Virtual Machines Serverless Machine Learning NLP Testing Kafka OAuth Database Success is not in what you have, but who you are. Cloud Functions Database Indexing Success doesn’t just find you. You have to go out and get it.
 Automation Replica Set UX Optimization Content Delivery Network DNS Routing Artificial Intelligence RabbitMQ Optimization Security Container Orchestration
+Data Science Automation Performance Monitoring Edge Computing Pull Request

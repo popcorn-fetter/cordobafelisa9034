@@ -3,3 +3,4 @@ Neural Networks Kafka Data Pipeline Cache Invalidation Load Balancing Python If 
 Cache Invalidation Kubernetes Predictive Analytics Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
 Automation Deployment Parallel Processing Stay hungry, stay foolish. Framework
 Quantum Computing OAuth Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Predictive Analytics I find that the harder I work, the more luck I seem to have. Event-driven Architecture Frontend JavaScript
+Opportunities don't happen. You create them. Quantum Computing Do what you love and the money will follow. DevOps IoT Kafka Containerization Cloud Functions Parallel Processing Virtual Machines A/B Testing

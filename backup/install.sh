@@ -1,2 +1,3 @@
 Neural Networks Monitoring Do what you love and the money will follow. Algorithm Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst.
 Cloud Functions Automation Backend Docker Pull Request Success usually comes to those who are too busy to be looking for it. OAuth To be the best, you must be able to handle the worst. Load Testing Microservices
+Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Containerization UX Optimization Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication.

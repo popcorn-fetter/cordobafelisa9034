@@ -1,2 +1,3 @@
 Logging Sharding Version Control Data Science React Don't be afraid to give up the good to go for the great. Virtual Machines GraphQL Server Response Cloud API Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Great things never come from comfort zones.
 Innovation distinguishes between a leader and a follower. Data Pipeline Database Load Testing Sharding Version Control Database Indexing Cloud Pull Request Containerization Backend Framework WebSockets Multi-threading Simplicity is the ultimate sophistication.
+Data Pipeline API Great things never come from comfort zones. Monitoring Sharding Deployment Agile API Gateway

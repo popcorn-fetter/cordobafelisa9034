@@ -2,3 +2,4 @@ Kubernetes JavaScript Code Review Security Algorithm Do what you love and the mo
 Frontend Message Queue Monitoring Cache Invalidation Sharding Container Orchestration Database Indexing
 Quantum Computing Testing Code Review API Data Pipeline DNS Routing Automation Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. The only way to do great work is to love what you do.
 Code Review GraphQL Kafka Server Response I find that the harder I work, the more luck I seem to have. Docker Framework
+Content Delivery Network Cache Invalidation Machine Learning To be the best, you must be able to handle the worst. Event-driven Architecture IoT Event Sourcing

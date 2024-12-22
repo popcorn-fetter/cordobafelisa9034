@@ -1,1 +1,2 @@
 API Gateway Agile Kafka Simplicity is the ultimate sophistication. Distributed Systems Virtual Machines Monitoring Framework React Opportunities don't happen. You create them. Latency Optimization
+Event Sourcing Lambda Functions Machine Learning Database Happiness is not something ready made. It comes from your own actions. Message Queue WebSockets Code Review Difficult roads often lead to beautiful destinations. Latency Optimization

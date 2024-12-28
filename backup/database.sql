@@ -1,0 +1,1 @@
+Success is not in what you have, but who you are. Event Sourcing Parallel Processing API Gateway Virtual Machines Neural Networks Lambda Functions Dream big and dare to fail. Innovation distinguishes between a leader and a follower. JWT

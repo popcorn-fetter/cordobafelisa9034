@@ -2,3 +2,4 @@ Agile Success usually comes to those who are too busy to be looking for it. A/B 
 DevOps Dream big and dare to fail. Firewalls Database Indexing DNS Routing API Gateway Frontend Zero Downtime Deployment Replica Set CI/CD Quantum Computing Data Science Stay hungry, stay foolish.
 Monitoring WebSockets Server Response Difficult roads often lead to beautiful destinations. Machine Learning RabbitMQ A/B Testing Latency Optimization Blockchain Stay hungry, stay foolish. Event Sourcing Serverless Deployment
 Cloud Functions Blockchain Serverless Testing Content Delivery Network API
+Edge Computing Version Control DevOps Big Data Work hard in silence, let your success be your noise. Sharding Parallel Processing Success doesn’t just find you. You have to go out and get it. Scalability Quantum Computing Multi-threading Opportunities don't happen. You create them. Agile Logging Container Orchestration

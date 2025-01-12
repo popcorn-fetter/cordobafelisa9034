@@ -1,0 +1,1 @@
+Logging Sharding Version Control Data Science React Don't be afraid to give up the good to go for the great. Virtual Machines GraphQL Server Response Cloud API Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Great things never come from comfort zones.

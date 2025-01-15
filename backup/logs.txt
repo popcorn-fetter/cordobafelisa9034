@@ -1,3 +1,4 @@
 Code Review If you can dream it, you can do it. Distributed Systems Success doesn’t just find you. You have to go out and get it. Database Indexing Kubernetes Optimization Edge Computing Containerization Serverless Testing
 Message Queue Containerization React Optimization Pull Request Docker Kafka Serverless Load Balancing Data Pipeline
 Database Machine Learning Latency Optimization Microservices Zero Downtime Deployment Content Delivery Network API Gateway Event Sourcing JavaScript Sharding Multi-threading React Stay hungry, stay foolish. Artificial Intelligence Backend
+Virtual Machines Artificial Intelligence Content Delivery Network Great things never come from comfort zones. Database Cloud Functions Don't be afraid to give up the good to go for the great. JavaScript Framework NLP Monitoring

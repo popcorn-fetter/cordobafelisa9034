@@ -1,1 +1,2 @@
 Scalability Happiness is not something ready made. It comes from your own actions. Docker Code Review Latency Optimization WebSockets Multi-threading Predictive Analytics I find that the harder I work, the more luck I seem to have. Optimization
+Neural Networks Kafka Data Pipeline Cache Invalidation Load Balancing Python If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Kubernetes Success usually comes to those who are too busy to be looking for it. CI/CD Success doesn’t just find you. You have to go out and get it.

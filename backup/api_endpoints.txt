@@ -1,1 +1,2 @@
 Agile Success usually comes to those who are too busy to be looking for it. A/B Testing Data Pipeline Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Lambda Functions Act as if what you do makes a difference. It does. Latency Optimization Kubernetes Artificial Intelligence
+DevOps Dream big and dare to fail. Firewalls Database Indexing DNS Routing API Gateway Frontend Zero Downtime Deployment Replica Set CI/CD Quantum Computing Data Science Stay hungry, stay foolish.
